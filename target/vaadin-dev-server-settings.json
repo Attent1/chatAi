@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "E:/FIAP/Java/2Semestre/chatAi/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "E:/FIAP/Java/2Semestre/chatAi/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "E:/FIAP/Java/2Semestre/chatAi/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "E:\\FIAP\\Java\\2Semestre\\chatAi\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "E:\\FIAP\\Java\\2Semestre\\chatAi\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "E:/FIAP/Java/2Semestre/chatAi/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "E:/FIAP/Java/2Semestre/chatAi/target/dev-bundle/config",
+  "jarResourcesFolder": "E:/FIAP/Java/2Semestre/chatAi/./src/main/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "E:\\FIAP\\Java\\2Semestre\\chatAi\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
